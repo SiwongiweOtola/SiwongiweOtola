@@ -1,13 +1,21 @@
-Hi there🙋‍♀️ I am Siwongiwe😁
+HI there🙋‍♀️ I'm Siwongiwe😁
 
--Hello, my name is Siwongiwe Otola. I hold a postgraduate diploma in business analysis.I have also obtained a data analytics certificate from IBM Skill Build. 
-I am proficient in Python and Excel. I'm currently learning Python Web Develpment (NQF 5 as recognised by SAQA) from SheCode Academy. 
-               -Technical Skills Summary
+Hello, my name is Siwongiwe Otola. I hold a postgraduate diploma in business analysis.
+I have obtained a data analytics certificate from IBM Skill Build. I am proficient in Python and Excel.
+I am currently learning Python web development (NQF 5 as recognised by SAQA) from SheCode Academy.
+
+- [Technical Skills Summary]
+               
 -Languages: Python, SQL
+
 -Frameworks: Pandas, Numpy, Import Libraries, and Matplotlib
+
 -Tools:  Excel, Power BI
+
 -Framework: Dashboards, Pivot Tables, VLOOKUP, and Charts
+
 -Software: W5 Software, Agile Software
+
 -Platforms: Jupyter Notebook, Visual Studio Code, and Google Collab
  
 -📫 How to reach me: otolasiwo@gmail.com
